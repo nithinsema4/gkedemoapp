@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+How to deploy a Rails 5.0 application to Google Container Engine (GKE) and enable https 
 
-Things you may want to cover:
+This repository contains the code used in the article: https://medium.com/@nithinmallya4/deploying-a-rails-application-to-google-container-engine-with-kubernetes-b08b2de353fc
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
